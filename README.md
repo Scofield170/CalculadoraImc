@@ -2,8 +2,9 @@
 Desc
 
 ## :camera_flash: Screenshots
-<!-- You can add more screenshots here if you like -->
-Screenshots
+<!-- You can add more screenshots here if you like --> <img src="[Screenshot_20240302_180525](https://github.com/Scofield170/CalculadoraImc/assets/139893739/9ab60a9a-cd62-4c7c-adb6-afd349a1b3dd)
+"width=260/>
+Screenshots!
 
 ## Tecnologias
 Techs
