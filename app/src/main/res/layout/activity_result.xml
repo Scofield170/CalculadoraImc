@@ -64,6 +64,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="60dp"
         android:textSize="18dp"
+        android:textStyle="bold"
         android:text="A classificação do seu IMC é: " />
 
     <TextView
